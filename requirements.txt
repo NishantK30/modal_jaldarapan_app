@@ -1,0 +1,8 @@
+tensorflow-gpu
+pandas
+numpy
+psycopg2-binary
+meteostat
+scikit-learn
+pyyaml
+h5py
